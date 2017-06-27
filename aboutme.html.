@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body background="https://thumb7.shutterstock.com/display_pic_with_logo/2610952/335688131/stock-vector-africa-map-with-flags-africa-map-colored-in-with-their-flag-vector-illustration-335688131.jpg">
+<body background="https://s-media-cache-ak0.pinimg.com/736x/ac/5a/21/ac5a21ac639b92f8abbefd923ff75f83--african-art-projects-african-crafts.jpg">
 
 <h1 style="text-align:center;">Marielle Guepnang</h1> <hr>
 <p style="text-align:center;"> About Me: </p>
@@ -9,9 +9,10 @@
 <p title="Marielle's portfolio">
 This is a paragraph.
 </p
-
+<h5 style="font-family:comic sans ms;">
 <p>About Me: </p>
 <p>My first paragraph.</p>
+<img src="sidescroller.jpg" alt="some-text" width=" 400" hiegh="500";">
 
 </body>
 </html>
